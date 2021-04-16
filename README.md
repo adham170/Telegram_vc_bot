@@ -38,7 +38,7 @@ $ python3 main.py
 
 #### Generate String session [IMPORTANT]
 
-Download this file [generate_string_session.py](https://raw.githubusercontent.com/thehamkercat/Telegram_VC_Bot/master/generate_string_session.py)
+Download this file [generate_string_session.py](https://raw.githubusercontent.com/adham170/Telegram_VC_Bot/master/generate_string_session.py)
 
 
 ```sh
@@ -50,7 +50,7 @@ You will get a session string, copy it, Then use heroku commands to push to hero
 
 
 
-Send [commads](https://github.com/adham170/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
+Send [commads](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
 play music.
 
 
