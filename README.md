@@ -50,7 +50,7 @@ You will get a session string, copy it, Then use heroku commands to push to hero
 
 
 
-Send [commads](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
+Send [commads](https://github.com/adham170/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
 play music.
 
 
